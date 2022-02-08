@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<img src="https://github.com/<username>/<repository-name>/blob/<branch-name>/images/stat.svg" alt="Alternative Text"/>
+<img src="https://github.com/riannacastro/riannacastro/blob/main/images/stat.svg" alt="Riannacastro WakaTime Activity"/>
 Example: <img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>
 
 <!--
