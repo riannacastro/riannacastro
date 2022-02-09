@@ -7,7 +7,6 @@
 
 
 ```js
-import SoftwareDeveloper from 'riannacastro';
 
 let Bio = {
   name = "Rianna Castro",
