@@ -3,8 +3,6 @@
 <h1 align="center">Hi! I'm Rianna Castro 👋</h1>
 <h3 align="center"><b>Computer Science Teacher turned Full-Stack Software Developer.</b></h3>
 
-<img src="https://github.com/riannacastro/riannacastro/blob/main/images/stat.svg" alt="Riannacastro WakaTime Activity"/>
-
 
 ```js
 
