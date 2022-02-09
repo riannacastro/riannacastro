@@ -1,4 +1,4 @@
-### Hi! I'm Rianna 👋
+
 
 <h1 align="center">Hi! I'm Rianna Castro 👋</h1>
 <h3 align="center"><b>Computer Science Teacher turned Full-Stack Software Developer.</b></h3>
