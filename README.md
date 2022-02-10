@@ -15,11 +15,12 @@ let Bio = {
 }
 ```
 
-Creating my current project with:
-React and Redux
+### Creating my current project with:
+React and Redux 💻
 
+---
 
-Skills:
+### Skills:
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
