@@ -3,6 +3,8 @@
 <h1 align="center">Hi! I'm Rianna Castro 👋</h1>
 <h3 align="center"><b>Computer Science Teacher turned Full-Stack Software Developer.</b></h3>
 
+---
+
 
 ```js
 
@@ -15,12 +17,15 @@ let Bio = {
 }
 ```
 
+---
+
 ### Creating my current project with:
+
 React and Redux 💻
 
 ---
 
-### Skills:
+### Skilled in:
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
@@ -29,6 +34,10 @@ React and Redux 💻
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/github/github-tile.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-tile.svg"></code>
+
+---
+
+![](https://komarev.com/ghpvc/?username=riannacastro&style=flat-square)
 
 
 <!--
