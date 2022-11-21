@@ -19,9 +19,9 @@ let Bio = {
 
 ---
 
-### Creating my current project with:
+<!-- ### Creating my current project with:
 
-React and Redux 💻
+React and Redux 💻 -->
 
 ---
 
