@@ -11,7 +11,7 @@
 let Bio = {
   name = "Rianna Castro",
   role = "Full-Stack Software Engineer",
-  background = "Junior Software Engineer at Percy. (start-up)",
+  background = "Junior Software Engineer at Percy. (start-up company)",
   location = "Pearl City, HI",
   hobbies = "Hiking and surfing",
 }
