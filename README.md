@@ -22,8 +22,8 @@ let AboutMe = {
 ## Currently creating a project with:
 
 ### Treebank
- <h3>React with TypeScript 💻</h3>
- <h3>GraphQL API</h3>
+ <p>React with TypeScript 💻</p>
+ <p>GraphQL API</p>
 
 ---
 
