@@ -19,9 +19,9 @@ let Bio = {
 
 ---
 
-<!-- ### Creating my current project with:
+### Currently creating a project with:
 
-React and Redux 💻 -->
+CRA + TypeScript 💻
 
 ---
 
@@ -34,6 +34,7 @@ React and Redux 💻 -->
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/github/github-tile.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-tile.svg"></code>
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></code>
 
 ---
 
