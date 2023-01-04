@@ -8,7 +8,7 @@
 
 ```js
 
-let Bio = {
+let AboutMe = {
   name = "Rianna Castro",
   role = "Full-Stack Software Engineer",
   background = "Junior Software Engineer at Percy. (start-up company)",
@@ -21,7 +21,9 @@ let Bio = {
 
 ### Currently creating a project with:
 
-CRA + TypeScript 💻
+## Treebank
+ React with TypeScript 💻
+ GraphQL API
 
 ---
 
