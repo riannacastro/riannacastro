@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi! I'm Rianna Castro 👋</h1>
-<h3 align="center"><b>Full-Stack Software Engineer</b></h3>
+<h3 align="center"><b>Full Stack Software Engineer</b></h3>
 
 ---
 
