@@ -11,7 +11,7 @@
 let AboutMe = {
   name = "Rianna Castro",
   role = "Full Stack Software Engineer",
-  background = "Previous experience working in a start-up company",
+  background = "Previous experience working in startups",
   location = "Pearl City, HI",
   hobbies = "Hiking and surfing",
 }
