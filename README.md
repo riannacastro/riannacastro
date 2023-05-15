@@ -19,15 +19,14 @@ let AboutMe = {
 
 ---
 
-## Currently creating a project with:
-
-### Treebank
- <p>React with TypeScript 💻</p>
- <p>GraphQL API</p>
+## Currently creating a full stack project with:
+ <p>Frontend: TypeScript 💻</p>
+ <p>Backend: GraphQL API</p>
+ <p>DB: PostgreSQL</p>
 
 ---
 
-### Skilled in:
+### Skills:
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
@@ -37,6 +36,9 @@ let AboutMe = {
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-tile.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></code>
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/apollographql/apollographql-ar21.svg"></code>
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
 
 ---
 
