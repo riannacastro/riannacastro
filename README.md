@@ -11,18 +11,11 @@
 let AboutMe = {
   name = "Rianna Castro",
   role = "Full Stack Software Engineer",
-  background = "Previous experience working in startups",
+  background = "Experienced working in fast-paced environments",
   location = "Pearl City, HI",
-  hobbies = "Hiking and surfing",
+  hobbies = "Hiking with my dogs!",
 }
 ```
-
----
-
-## Currently creating a full stack project with:
- <p>Frontend: TypeScript 💻</p>
- <p>Backend: GraphQL API</p>
- <p>DB: PostgreSQL</p>
 
 ---
 
