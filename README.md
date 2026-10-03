@@ -4,6 +4,7 @@
 <h3 align="center"><b>Full Stack Software Engineer</b></h3>
 
 <p>Experienced in building and scaling production applications in fast-paced startup environments.</p>
+
 ---
 
 ### Skills:
