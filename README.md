@@ -8,11 +8,11 @@
 ---
 
 ### Skills:
-Languages: TypeScript · JavaScript · Ruby · SQL
-Frontend: React · Next.js · Redux · Tailwind CSS · Turbo/Stimulus · TanStack Query
-Backend: Ruby on Rails · GraphQL · REST APIs
-Data: PostgreSQL · MongoDB
-Tools: Git · GitHub · Docker · Cursor · Figma · Claude Code
+<p><strong>Languages:</strong> TypeScript · JavaScript · Ruby · SQL</p>
+<p><strong>Frontend:</strong> React · Next.js · Redux · Tailwind CSS · Turbo/Stimulus · TanStack Query</p>
+<p><strong>Backend:</strong> Ruby on Rails · GraphQL · REST APIs</p>
+<p><strong>Data:</strong> PostgreSQL · MongoDB</p>
+<p><strong>Tools:</strong> Git · GitHub · Docker · Cursor · Figma · Claude Code</p>
 
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
