@@ -5,6 +5,10 @@
 
 ---
 
+Experienced in building and scaling production applications in fast-paced startup environments.
+
+---
+
 ### Skills:
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
