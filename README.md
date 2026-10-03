@@ -7,7 +7,7 @@
 
 ---
 
-### Skills:
+### Technical Skills:
 <p><strong>Languages:</strong> TypeScript · JavaScript · Ruby · SQL</p>
 <p><strong>Frontend:</strong> React · Next.js · Redux · Tailwind CSS · Turbo/Stimulus · TanStack Query</p>
 <p><strong>Backend:</strong> Ruby on Rails · GraphQL · REST APIs</p>
