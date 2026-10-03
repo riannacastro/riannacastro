@@ -3,10 +3,7 @@
 <h1 align="center">Hi! I'm Rianna Castro 👋</h1>
 <h3 align="center"><b>Full Stack Software Engineer</b></h3>
 
----
-
-Experienced in building and scaling production applications in fast-paced startup environments.
-
+<p>Experienced in building and scaling production applications in fast-paced startup environments.</p>
 ---
 
 ### Skills:
